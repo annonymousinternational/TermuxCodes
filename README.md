@@ -1,0 +1,2 @@
+# TermuxCodes
+TERMUX HACKING COMMANDS
